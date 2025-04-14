@@ -24,7 +24,7 @@ With AgroBharat, farmers can embrace technology-driven agriculture, minimize los
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AgroBharat.git
+git clone https://github.com/OmSingh2003/AgroBharat.git
 cd AgroBharat
 ```
 
